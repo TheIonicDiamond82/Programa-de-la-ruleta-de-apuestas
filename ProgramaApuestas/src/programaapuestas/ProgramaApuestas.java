@@ -122,13 +122,7 @@ import javax.swing.table.DefaultTableModel;
 	}
 
 }*/
-/*
-Integrantes: Equipo#5
-Leyva Gonzales Jesus Nahel
-Lopez Chaparro Kevin Manuel
-Peñuelas Leyva Luis Alberto
-Uriarte Avelar Jesus Eduardo
-*/
+
 public class ProgramaApuestas {
 static int juegoGanado1,juegoGanado2;
 	public static void main(String[] args) {
